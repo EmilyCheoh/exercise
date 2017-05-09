@@ -1,5 +1,6 @@
 # exercise
-my favorite candy is gummy.
+
+My favorite candy is chocolate almonds/cashew
 add a line to describe the project?
 
 
@@ -7,3 +8,5 @@ add a line to describe the project?
 
 
 what??
+
+
